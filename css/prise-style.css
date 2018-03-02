@@ -1,0 +1,30 @@
+.prise {
+	display: flex;
+	justify-content: center;
+}
+
+.prise__text {
+	font-size: 22px;
+	text-align: center;
+}
+
+.prise h1 {
+	margin-bottom: 30px;
+}
+
+table {
+	font-size: 25px;
+	margin-top: 70px;
+}
+
+tr, th {
+	text-align: left;
+}
+
+th>h4 {
+	text-align: center;
+}
+
+tbody>tr:hover {
+	background-color: rgba(243,217,23,0.5) !important;
+}
